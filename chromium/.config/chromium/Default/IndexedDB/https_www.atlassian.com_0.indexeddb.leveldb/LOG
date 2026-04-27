@@ -1,7 +1,0 @@
-2026/04/24-15:03:48.723 bb0 Reusing MANIFEST /home/mdo/.config/chromium/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/04/24-15:03:48.723 bb0 Recovering log #3
-2026/04/24-15:03:48.724 bb0 Reusing old log /home/mdo/.config/chromium/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/000003.log 
-2026/04/24-15:03:52.028 bae Level-0 table #5: started
-2026/04/24-15:03:52.031 bae Level-0 table #5: 235902 bytes OK
-2026/04/24-15:03:52.032 bae Delete type=0 #3
-2026/04/24-15:03:52.033 bae Manual compaction at level-0 from (begin) .. (end); will stop at (end)

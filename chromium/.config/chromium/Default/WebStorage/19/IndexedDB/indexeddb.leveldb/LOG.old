@@ -1,5 +1,0 @@
-2026/04/23-13:39:31.223 f37 Creating DB /home/mdo/.config/chromium/Default/WebStorage/19/IndexedDB/indexeddb.leveldb since it was missing.
-2026/04/23-13:39:31.225 f37 Reusing MANIFEST /home/mdo/.config/chromium/Default/WebStorage/19/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2026/04/23-13:39:37.405 f39 Level-0 table #5: started
-2026/04/23-13:39:37.418 f39 Level-0 table #5: 2059238 bytes OK
-2026/04/23-13:39:37.420 f39 Delete type=0 #3

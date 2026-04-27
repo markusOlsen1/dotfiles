@@ -1,6 +1,0 @@
-2026/04/24-13:45:07.373 bad Creating DB /home/mdo/.config/chromium/Default/WebStorage/29/IndexedDB/indexeddb.leveldb since it was missing.
-2026/04/24-13:45:07.375 bad Reusing MANIFEST /home/mdo/.config/chromium/Default/WebStorage/29/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2026/04/24-13:52:39.997 bae Level-0 table #5: started
-2026/04/24-13:52:39.998 bae Level-0 table #5: 29317 bytes OK
-2026/04/24-13:52:39.999 bae Delete type=0 #3
-2026/04/24-13:52:39.999 bae Manual compaction at level-0 from (begin) .. (end); will stop at (end)

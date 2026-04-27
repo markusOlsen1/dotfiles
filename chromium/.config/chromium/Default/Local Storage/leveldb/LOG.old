@@ -1,6 +1,0 @@
-2026/04/27-09:39:14.369 5 Reusing MANIFEST /home/mdo/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2026/04/27-09:39:14.372 5 Recovering log #348
-2026/04/27-09:39:14.372 5 Reusing old log /home/mdo/.config/chromium/Default/Local Storage/leveldb/000348.log 
-2026/04/27-09:39:34.208 5 Level-0 table #354: started
-2026/04/27-09:39:34.211 5 Level-0 table #354: 57424 bytes OK
-2026/04/27-09:39:34.213 5 Delete type=0 #348

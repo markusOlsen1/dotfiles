@@ -1,0 +1,14 @@
+2026/04/24-15:07:00.450 bad Creating DB /home/mdo/.config/chromium/Default/IndexedDB/https_perfusiontechcom.sharepoint.com_0.indexeddb.leveldb since it was missing.
+2026/04/24-15:07:00.452 bad Reusing MANIFEST /home/mdo/.config/chromium/Default/IndexedDB/https_perfusiontechcom.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/24-15:07:08.366 bae Level-0 table #5: started
+2026/04/24-15:07:08.379 bae Level-0 table #5: 2228647 bytes OK
+2026/04/24-15:07:08.381 bae Delete type=0 #3
+2026/04/24-15:09:38.436 bae Level-0 table #7: started
+2026/04/24-15:09:38.448 bae Level-0 table #7: 2434507 bytes OK
+2026/04/24-15:09:38.452 bae Delete type=0 #4
+2026/04/24-15:14:08.911 bae Compacting 1@1 + 1@2 files
+2026/04/24-15:14:08.927 bae Generated table #8@1: 3466 keys, 1834789 bytes
+2026/04/24-15:14:08.927 bae Compacted 1@1 + 1@2 files => 1834789 bytes
+2026/04/24-15:14:08.928 bae compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/24-15:14:08.928 bae Delete type=2 #5
+2026/04/24-15:14:08.928 bae Delete type=2 #7

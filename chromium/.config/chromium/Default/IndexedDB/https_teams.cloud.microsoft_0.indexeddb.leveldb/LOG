@@ -1,0 +1,11 @@
+2026/04/24-15:40:55.546 1c03c Reusing MANIFEST /home/mdo/.config/chromium/Default/IndexedDB/https_teams.cloud.microsoft_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/24-15:40:55.547 1c03c Recovering log #339
+2026/04/24-15:40:55.548 1c03c Reusing old log /home/mdo/.config/chromium/Default/IndexedDB/https_teams.cloud.microsoft_0.indexeddb.leveldb/000339.log 
+2026/04/24-15:40:55.867 1c03d Compacting 1@1 + 2@2 files
+2026/04/24-15:40:55.885 1c03d Generated table #349@1: 718 keys, 2143027 bytes
+2026/04/24-15:40:55.897 1c03d Generated table #350@1: 10597 keys, 985064 bytes
+2026/04/24-15:40:55.897 1c03d Compacted 1@1 + 2@2 files => 3128091 bytes
+2026/04/24-15:40:55.898 1c03d compacted to: files[ 0 2 6 0 0 0 0 ]
+2026/04/24-15:40:55.898 1c03d Delete type=2 #316
+2026/04/24-15:40:55.898 1c03d Delete type=2 #318
+2026/04/24-15:40:55.898 1c03d Delete type=2 #344

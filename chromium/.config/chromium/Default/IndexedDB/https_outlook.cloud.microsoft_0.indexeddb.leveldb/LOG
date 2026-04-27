@@ -1,0 +1,3 @@
+2026/04/24-15:15:00.589 bad Reusing MANIFEST /home/mdo/.config/chromium/Default/IndexedDB/https_outlook.cloud.microsoft_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/24-15:15:00.589 bad Recovering log #4
+2026/04/24-15:15:00.589 bad Reusing old log /home/mdo/.config/chromium/Default/IndexedDB/https_outlook.cloud.microsoft_0.indexeddb.leveldb/000004.log 

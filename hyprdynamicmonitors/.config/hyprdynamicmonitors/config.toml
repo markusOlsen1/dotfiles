@@ -1,0 +1,94 @@
+[general]
+destination = "$HOME/.config/hypr/monitors.conf"
+
+[power_events]
+
+[power_events.dbus_query_object]
+path = "/org/freedesktop/UPower/devices/line_power_ACAD"
+
+[[power_events.dbus_signal_match_rules]]
+object_path = "/org/freedesktop/UPower/devices/line_power_ACAD"
+
+
+[profiles.Docked]
+config_file = "/home/mdo/.config/hyprdynamicmonitors/hyprconfigs/Docked.go.tmpl"
+config_file_type = "template"
+[profiles.Docked.conditions]
+
+[[profiles.Docked.conditions.required_monitors]]
+description = "Samsung Display Corp. ATNA40CU05-0"
+monitor_tag = "monitor0"
+
+[[profiles.Docked.conditions.required_monitors]]
+description = "LG Electronics LG Ultra HD 0x0002B244"
+monitor_tag = "monitor1"
+
+
+[profiles.Both]
+config_file = "/home/mdo/.config/hyprdynamicmonitors/hyprconfigs/Both.go.tmpl"
+config_file_type = "template"
+[profiles.Both.conditions]
+
+[[profiles.Both.conditions.required_monitors]]
+description = "Samsung Display Corp. ATNA40CU05-0"
+monitor_tag = "monitor0"
+
+[[profiles.Both.conditions.required_monitors]]
+description = "LG Electronics LG Ultra HD 0x0002B244"
+monitor_tag = "monitor1"
+
+
+[profiles.Double]
+config_file = "/home/mdo/.config/hyprdynamicmonitors/hyprconfigs/Double.go.tmpl"
+config_file_type = "template"
+[profiles.Double.conditions]
+
+[[profiles.Double.conditions.required_monitors]]
+description = "Samsung Display Corp. ATNA40CU05-0"
+monitor_tag = "monitor0"
+
+[[profiles.Double.conditions.required_monitors]]
+description = "LG Electronics LG Ultra HD 0x0002B244"
+monitor_tag = "monitor1"
+
+
+[profiles.Laptop]
+config_file = "/home/mdo/.config/hyprdynamicmonitors/hyprconfigs/Laptop.go.tmpl"
+config_file_type = "template"
+[profiles.Laptop.conditions]
+
+[[profiles.Laptop.conditions.required_monitors]]
+description = "Samsung Display Corp. ATNA40CU05-0"
+monitor_tag = "monitor0"
+
+[[profiles.Laptop.conditions.required_monitors]]
+description = "LG Electronics LG Ultra HD 0x0002B244"
+monitor_tag = "monitor1"
+
+
+[profiles.double]
+config_file = "/home/mdo/.config/hyprdynamicmonitors/hyprconfigs/double.go.tmpl"
+config_file_type = "template"
+[profiles.double.conditions]
+
+[[profiles.double.conditions.required_monitors]]
+description = "Samsung Display Corp. ATNA40CU05-0"
+monitor_tag = "monitor0"
+
+[[profiles.double.conditions.required_monitors]]
+description = "LG Electronics LG Ultra HD 0x0002B244"
+monitor_tag = "monitor1"
+
+
+[profiles.docked]
+config_file = "/home/mdo/.config/hyprdynamicmonitors/hyprconfigs/docked.go.tmpl"
+config_file_type = "template"
+[profiles.docked.conditions]
+
+[[profiles.docked.conditions.required_monitors]]
+description = "Samsung Display Corp. ATNA40CU05-0"
+monitor_tag = "monitor0"
+
+[[profiles.docked.conditions.required_monitors]]
+description = "LG Electronics LG Ultra HD 0x0002B244"
+monitor_tag = "monitor1"

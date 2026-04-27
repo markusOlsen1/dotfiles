@@ -1,0 +1,138 @@
+2026/04/24-09:07:56.948 3480 Reusing MANIFEST /home/mdo/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2026/04/24-09:07:56.949 3480 Recovering log #6
+2026/04/24-09:07:56.949 3480 Reusing old log /home/mdo/.config/Slack/Local Storage/leveldb/000006.log 
+2026/04/24-09:08:56.952 3458 Level-0 table #10: started
+2026/04/24-09:08:56.956 3458 Level-0 table #10: 78190 bytes OK
+2026/04/24-09:08:56.960 3458 Delete type=0 #6
+2026/04/24-09:09:57.149 347e Level-0 table #12: started
+2026/04/24-09:09:57.154 347e Level-0 table #12: 19928 bytes OK
+2026/04/24-09:09:57.155 347e Delete type=0 #9
+2026/04/24-09:37:57.151 347e Level-0 table #14: started
+2026/04/24-09:37:57.155 347e Level-0 table #14: 20786 bytes OK
+2026/04/24-09:37:57.156 347e Delete type=0 #11
+2026/04/24-09:41:57.149 347e Level-0 table #16: started
+2026/04/24-09:41:57.174 347e Level-0 table #16: 20221 bytes OK
+2026/04/24-09:41:57.175 347e Delete type=0 #13
+2026/04/24-09:41:57.176 347e Compacting 4@0 + 1@1 files
+2026/04/24-09:41:57.178 347e Generated table #17@0: 95 keys, 101619 bytes
+2026/04/24-09:41:57.178 347e Compacted 4@0 + 1@1 files => 101619 bytes
+2026/04/24-09:41:57.179 347e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/24-09:41:57.179 347e Delete type=2 #7
+2026/04/24-09:41:57.179 347e Delete type=2 #10
+2026/04/24-09:41:57.179 347e Delete type=2 #12
+2026/04/24-09:41:57.179 347e Delete type=2 #14
+2026/04/24-09:41:57.179 347e Delete type=2 #16
+2026/04/24-10:57:57.149 347e Level-0 table #19: started
+2026/04/24-10:57:57.164 347e Level-0 table #19: 22400 bytes OK
+2026/04/24-10:57:57.166 347e Delete type=0 #15
+2026/04/24-10:59:57.149 347e Level-0 table #21: started
+2026/04/24-10:59:57.150 347e Level-0 table #21: 33492 bytes OK
+2026/04/24-10:59:57.151 347e Delete type=0 #18
+2026/04/24-11:09:57.150 347e Level-0 table #23: started
+2026/04/24-11:09:57.152 347e Level-0 table #23: 33239 bytes OK
+2026/04/24-11:09:57.153 347e Delete type=0 #20
+2026/04/24-11:13:57.149 347e Level-0 table #25: started
+2026/04/24-11:13:57.151 347e Level-0 table #25: 32953 bytes OK
+2026/04/24-11:13:57.152 347e Delete type=0 #22
+2026/04/24-11:13:57.152 347e Compacting 4@0 + 1@1 files
+2026/04/24-11:13:57.155 347e Generated table #26@0: 95 keys, 102144 bytes
+2026/04/24-11:13:57.155 347e Compacted 4@0 + 1@1 files => 102144 bytes
+2026/04/24-11:13:57.156 347e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/24-11:13:57.156 347e Delete type=2 #17
+2026/04/24-11:13:57.156 347e Delete type=2 #19
+2026/04/24-11:13:57.156 347e Delete type=2 #21
+2026/04/24-11:13:57.156 347e Delete type=2 #23
+2026/04/24-11:13:57.156 347e Delete type=2 #25
+2026/04/24-11:31:57.150 347e Level-0 table #28: started
+2026/04/24-11:31:57.151 347e Level-0 table #28: 21081 bytes OK
+2026/04/24-11:31:57.152 347e Delete type=0 #24
+2026/04/24-13:11:57.150 347e Level-0 table #30: started
+2026/04/24-13:11:57.165 347e Level-0 table #30: 23062 bytes OK
+2026/04/24-13:11:57.166 347e Delete type=0 #27
+2026/04/24-13:12:57.150 347e Level-0 table #32: started
+2026/04/24-13:12:57.153 347e Level-0 table #32: 20629 bytes OK
+2026/04/24-13:12:57.155 347e Delete type=0 #29
+2026/04/24-13:20:57.149 347e Level-0 table #34: started
+2026/04/24-13:20:57.152 347e Level-0 table #34: 21633 bytes OK
+2026/04/24-13:20:57.153 347e Delete type=0 #31
+2026/04/24-13:20:57.154 347e Compacting 4@0 + 1@1 files
+2026/04/24-13:20:57.156 347e Generated table #35@0: 95 keys, 102439 bytes
+2026/04/24-13:20:57.156 347e Compacted 4@0 + 1@1 files => 102439 bytes
+2026/04/24-13:20:57.158 347e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/24-13:20:57.158 347e Delete type=2 #26
+2026/04/24-13:20:57.158 347e Delete type=2 #28
+2026/04/24-13:20:57.158 347e Delete type=2 #30
+2026/04/24-13:20:57.158 347e Delete type=2 #32
+2026/04/24-13:20:57.158 347e Delete type=2 #34
+2026/04/24-13:22:57.149 347e Level-0 table #37: started
+2026/04/24-13:22:57.151 347e Level-0 table #37: 37529 bytes OK
+2026/04/24-13:22:57.152 347e Delete type=0 #33
+2026/04/24-13:54:57.149 347e Level-0 table #39: started
+2026/04/24-13:54:57.150 347e Level-0 table #39: 22377 bytes OK
+2026/04/24-13:54:57.151 347e Delete type=0 #36
+2026/04/24-14:02:57.150 347e Level-0 table #41: started
+2026/04/24-14:02:57.152 347e Level-0 table #41: 21570 bytes OK
+2026/04/24-14:02:57.153 347e Delete type=0 #38
+2026/04/24-14:05:57.150 347e Level-0 table #43: started
+2026/04/24-14:05:57.152 347e Level-0 table #43: 21608 bytes OK
+2026/04/24-14:05:57.154 347e Delete type=0 #40
+2026/04/24-14:05:57.154 347e Compacting 4@0 + 1@1 files
+2026/04/24-14:05:57.156 347e Generated table #44@0: 95 keys, 103066 bytes
+2026/04/24-14:05:57.156 347e Compacted 4@0 + 1@1 files => 103066 bytes
+2026/04/24-14:05:57.157 347e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/24-14:05:57.157 347e Delete type=2 #35
+2026/04/24-14:05:57.157 347e Delete type=2 #37
+2026/04/24-14:05:57.157 347e Delete type=2 #39
+2026/04/24-14:05:57.157 347e Delete type=2 #41
+2026/04/24-14:05:57.157 347e Delete type=2 #43
+2026/04/24-14:26:57.149 347e Level-0 table #46: started
+2026/04/24-14:26:57.153 347e Level-0 table #46: 23270 bytes OK
+2026/04/24-14:26:57.154 347e Delete type=0 #42
+2026/04/24-14:40:57.151 347e Level-0 table #48: started
+2026/04/24-14:40:57.154 347e Level-0 table #48: 43434 bytes OK
+2026/04/24-14:40:57.155 347e Delete type=0 #45
+2026/04/24-14:41:57.149 347e Level-0 table #50: started
+2026/04/24-14:41:57.151 347e Level-0 table #50: 22468 bytes OK
+2026/04/24-14:41:57.153 347e Delete type=0 #47
+2026/04/24-14:44:57.150 347e Level-0 table #52: started
+2026/04/24-14:44:57.153 347e Level-0 table #52: 23414 bytes OK
+2026/04/24-14:44:57.154 347e Delete type=0 #49
+2026/04/24-14:44:57.154 347e Compacting 4@0 + 1@1 files
+2026/04/24-14:44:57.156 347e Generated table #53@0: 96 keys, 104829 bytes
+2026/04/24-14:44:57.156 347e Compacted 4@0 + 1@1 files => 104829 bytes
+2026/04/24-14:44:57.157 347e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/24-14:44:57.157 347e Delete type=2 #44
+2026/04/24-14:44:57.157 347e Delete type=2 #46
+2026/04/24-14:44:57.157 347e Delete type=2 #48
+2026/04/24-14:44:57.157 347e Delete type=2 #50
+2026/04/24-14:44:57.157 347e Delete type=2 #52
+2026/04/24-14:52:57.150 347e Level-0 table #55: started
+2026/04/24-14:52:57.151 347e Level-0 table #55: 22113 bytes OK
+2026/04/24-14:52:57.152 347e Delete type=0 #51
+2026/04/24-14:53:57.150 347e Level-0 table #57: started
+2026/04/24-14:53:57.151 347e Level-0 table #57: 22570 bytes OK
+2026/04/24-14:53:57.152 347e Delete type=0 #54
+2026/04/24-15:13:57.149 347e Level-0 table #59: started
+2026/04/24-15:13:57.153 347e Level-0 table #59: 33400 bytes OK
+2026/04/24-15:13:57.156 347e Delete type=0 #56
+2026/04/24-15:32:57.150 347e Level-0 table #61: started
+2026/04/24-15:32:57.155 347e Level-0 table #61: 40288 bytes OK
+2026/04/24-15:32:57.156 347e Delete type=0 #58
+2026/04/24-15:32:57.156 347e Compacting 4@0 + 1@1 files
+2026/04/24-15:32:57.159 347e Generated table #62@0: 96 keys, 104434 bytes
+2026/04/24-15:32:57.159 347e Compacted 4@0 + 1@1 files => 104434 bytes
+2026/04/24-15:32:57.160 347e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/24-15:32:57.160 347e Delete type=2 #53
+2026/04/24-15:32:57.160 347e Delete type=2 #55
+2026/04/24-15:32:57.160 347e Delete type=2 #57
+2026/04/24-15:32:57.160 347e Delete type=2 #59
+2026/04/24-15:32:57.160 347e Delete type=2 #61
+2026/04/24-15:35:57.152 347e Level-0 table #64: started
+2026/04/24-15:35:57.160 347e Level-0 table #64: 24105 bytes OK
+2026/04/24-15:35:57.162 347e Delete type=0 #60
+2026/04/24-15:40:57.150 347e Level-0 table #66: started
+2026/04/24-15:40:57.151 347e Level-0 table #66: 8194 bytes OK
+2026/04/24-15:40:57.152 347e Delete type=0 #63
+2026/04/24-15:42:57.149 347e Level-0 table #68: started
+2026/04/24-15:42:57.151 347e Level-0 table #68: 24632 bytes OK
+2026/04/24-15:42:57.152 347e Delete type=0 #65

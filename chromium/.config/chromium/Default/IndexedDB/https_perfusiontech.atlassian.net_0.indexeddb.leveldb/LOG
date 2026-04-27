@@ -1,0 +1,30 @@
+2026/04/24-07:57:23.475 bad Reusing MANIFEST /home/mdo/.config/chromium/Default/IndexedDB/https_perfusiontech.atlassian.net_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/24-07:57:23.475 bad Recovering log #4
+2026/04/24-07:57:23.476 bad Reusing old log /home/mdo/.config/chromium/Default/IndexedDB/https_perfusiontech.atlassian.net_0.indexeddb.leveldb/000004.log 
+2026/04/24-09:20:19.083 bae Level-0 table #8: started
+2026/04/24-09:20:19.095 bae Level-0 table #8: 1931231 bytes OK
+2026/04/24-09:20:19.097 bae Delete type=0 #4
+2026/04/24-09:20:25.850 bae Compacting 1@1 + 1@2 files
+2026/04/24-09:20:25.860 bae Generated table #9@1: 1463 keys, 147976 bytes
+2026/04/24-09:20:25.860 bae Compacted 1@1 + 1@2 files => 147976 bytes
+2026/04/24-09:20:25.861 bae compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/24-09:20:25.862 bae Delete type=2 #5
+2026/04/24-09:20:25.862 bae Delete type=2 #8
+2026/04/24-11:24:08.667 bb0 Level-0 table #11: started
+2026/04/24-11:24:08.681 bb0 Level-0 table #11: 2160923 bytes OK
+2026/04/24-11:24:08.683 bb0 Delete type=0 #7
+2026/04/24-11:24:17.479 bad Compacting 1@1 + 1@2 files
+2026/04/24-11:24:17.485 bad Generated table #12@1: 2012 keys, 230538 bytes
+2026/04/24-11:24:17.485 bad Compacted 1@1 + 1@2 files => 230538 bytes
+2026/04/24-11:24:17.486 bad compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/24-11:24:17.486 bad Delete type=2 #9
+2026/04/24-11:24:17.486 bad Delete type=2 #11
+2026/04/24-12:21:19.355 bae Level-0 table #14: started
+2026/04/24-12:21:19.367 bae Level-0 table #14: 2053294 bytes OK
+2026/04/24-12:21:19.368 bae Delete type=0 #10
+2026/04/24-12:22:31.972 bae Compacting 1@1 + 1@2 files
+2026/04/24-12:22:31.979 bae Generated table #15@1: 2279 keys, 167931 bytes
+2026/04/24-12:22:31.979 bae Compacted 1@1 + 1@2 files => 167931 bytes
+2026/04/24-12:22:31.980 bae compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/24-12:22:31.980 bae Delete type=2 #12
+2026/04/24-12:22:31.980 bae Delete type=2 #14

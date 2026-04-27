@@ -1,0 +1,6 @@
+2026/04/23-13:11:37.127 f37 Creating DB /home/mdo/.config/chromium/Default/WebStorage/16/IndexedDB/indexeddb.leveldb since it was missing.
+2026/04/23-13:11:37.129 f37 Reusing MANIFEST /home/mdo/.config/chromium/Default/WebStorage/16/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/04/23-13:23:50.730 f37 Level-0 table #5: started
+2026/04/23-13:23:50.731 f37 Level-0 table #5: 2280 bytes OK
+2026/04/23-13:23:50.732 f37 Delete type=0 #3
+2026/04/23-13:23:50.732 f37 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

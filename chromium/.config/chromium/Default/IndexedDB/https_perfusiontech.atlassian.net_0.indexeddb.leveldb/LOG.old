@@ -1,0 +1,6 @@
+2026/04/23-15:36:16.495 f36 Reusing MANIFEST /home/mdo/.config/chromium/Default/IndexedDB/https_perfusiontech.atlassian.net_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/23-15:36:16.495 f36 Recovering log #3
+2026/04/23-15:36:16.498 f36 Reusing old log /home/mdo/.config/chromium/Default/IndexedDB/https_perfusiontech.atlassian.net_0.indexeddb.leveldb/000003.log 
+2026/04/23-15:38:00.942 f4b Level-0 table #5: started
+2026/04/23-15:38:00.953 f4b Level-0 table #5: 1985353 bytes OK
+2026/04/23-15:38:00.954 f4b Delete type=0 #3

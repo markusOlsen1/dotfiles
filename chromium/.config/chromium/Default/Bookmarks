@@ -1,0 +1,69 @@
+{
+   "checksum": "fbda8957c35fa416782267ce595fddc7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13421408007024084",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13421408353746238",
+            "date_last_used": "0",
+            "guid": "89301f9e-d779-4a54-88ac-42b79399098a",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Sign in to Microsoft Azure",
+            "type": "url",
+            "url": "https://login.microsoftonline.com/common/login"
+         }, {
+            "date_added": "13421425058056449",
+            "date_last_used": "0",
+            "guid": "a5f2f9ce-2f71-493c-b792-a471530daacb",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PFWBoard",
+            "type": "url",
+            "url": "https://perfusiontech.atlassian.net/jira/software/c/projects/PFW/boards/129"
+         }, {
+            "date_added": "13421425118153137",
+            "date_last_used": "0",
+            "guid": "ca178985-b236-40fc-9177-5a34f1319b57",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "BitBucket",
+            "type": "url",
+            "url": "https://bitbucket.org/MadsHAaM/fitting/pull-requests/"
+         } ],
+         "date_added": "13421408007024084",
+         "date_last_used": "0",
+         "date_modified": "13421425118153137",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13421408007024084",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

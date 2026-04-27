@@ -1,0 +1,12 @@
+2026/04/24-15:22:57.538 bad Reusing MANIFEST /home/mdo/.config/chromium/Default/WebStorage/19/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/04/24-15:22:57.538 bad Recovering log #4
+2026/04/24-15:22:57.548 bad Reusing old log /home/mdo/.config/chromium/Default/WebStorage/19/IndexedDB/indexeddb.leveldb/000004.log 
+2026/04/24-15:22:57.851 bae Level-0 table #8: started
+2026/04/24-15:22:57.863 bae Level-0 table #8: 2660781 bytes OK
+2026/04/24-15:22:57.864 bae Delete type=0 #4
+2026/04/24-15:22:59.669 bb0 Compacting 1@1 + 1@2 files
+2026/04/24-15:22:59.691 bb0 Generated table #9@1: 3323 keys, 1823509 bytes
+2026/04/24-15:22:59.691 bb0 Compacted 1@1 + 1@2 files => 1823509 bytes
+2026/04/24-15:22:59.692 bb0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/24-15:22:59.692 bb0 Delete type=2 #5
+2026/04/24-15:22:59.692 bb0 Delete type=2 #8

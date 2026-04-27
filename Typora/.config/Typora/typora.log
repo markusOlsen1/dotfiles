@@ -1,0 +1,108 @@
+INFO 4/23/2026, 10:11:27 AM  23  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 4/23/2026, 10:11:27 AM  68  ------------------start------------------
+DEBUG 4/23/2026, 10:11:27 AM  75  before setting 
+DEBUG 4/23/2026, 10:11:27 AM  89  prepDatabase /home/mdo/.config/Typora/profile.data
+DEBUG 4/23/2026, 10:11:27 AM  91  prepDatabase /home/mdo/.config/Typora/history.data
+INFO 4/23/2026, 10:11:27 AM  93  OS is linux 6.19.11-arch1-1
+INFO 4/23/2026, 10:11:27 AM  93  launchFromDiffVersion, pre version is undefined
+INFO 4/23/2026, 10:11:27 AM  93  start LM in devVersion=false
+INFO 4/23/2026, 10:11:27 AM  99  overwriteThemeFolder
+DEBUG 4/23/2026, 10:11:27 AM  100  after setting 
+INFO 4/23/2026, 10:11:27 AM  100  typora version: 1.12.4
+DEBUG 4/23/2026, 10:11:27 AM  122  app.openFile
+INFO 4/23/2026, 10:11:27 AM  123  [watch L]
+DEBUG 4/23/2026, 10:11:27 AM  123  prepDatabase /home/mdo/.config/Typora/aZN6WGMg3s
+INFO 4/23/2026, 10:11:27 AM  125  no info
+INFO 4/23/2026, 10:11:27 AM  125  ls put SLicense
+DEBUG 4/23/2026, 10:11:27 AM  125  onUnfillLicense
+DEBUG 4/23/2026, 10:11:27 AM  125  trailRemains is 15
+INFO 4/23/2026, 10:11:27 AM  125  [L] installDate is 4/23/2026, trail remains: 15 days
+DEBUG 4/23/2026, 10:11:27 AM  125  onUnfillLicense
+INFO 4/23/2026, 10:11:27 AM  125  [watch L] hasL: false
+DEBUG 4/23/2026, 10:11:27 AM  152  added recovery 1 null  (0)
+DEBUG 4/23/2026, 10:11:27 AM  158  putAccelerator File -> &File
+DEBUG 4/23/2026, 10:11:27 AM  158  putAccelerator Edit -> &Edit
+DEBUG 4/23/2026, 10:11:27 AM  158  putAccelerator Paragraph -> &Paragraph
+DEBUG 4/23/2026, 10:11:27 AM  158  putAccelerator Format -> F&ormat
+DEBUG 4/23/2026, 10:11:27 AM  159  putAccelerator View -> &View
+DEBUG 4/23/2026, 10:11:27 AM  159  putAccelerator Themes -> &Themes
+DEBUG 4/23/2026, 10:11:27 AM  159  putAccelerator Help -> &Help
+INFO 4/23/2026, 10:11:27 AM  198  synced recovery
+user-dict.json not found
+DEBUG 4/23/2026, 10:11:27 AM  460  onUnfillLicense
+ERROR 4/23/2026, 10:11:27 AM  466  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/23/2026, 10:11:27 AM  468  handle document.loadData
+DEBUG 4/23/2026, 10:11:27 AM  468  document.loadData 0
+ERROR 4/23/2026, 10:11:27 AM  468  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/23/2026, 10:11:27 AM  489  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 4/23/2026, 10:11:27 AM  489  [RenderProcess 1][Log] reset NodeMap
+DEBUG 4/23/2026, 10:11:27 AM  500  added recovery 1   (0)
+INFO 4/23/2026, 10:11:27 AM  501  synced recovery
+INFO 4/23/2026, 10:11:27 AM  575  [RenderProcess 1][Log] onBecomeActive
+INFO 4/23/2026, 10:11:27 AM  575  [RenderProcess 1][Log] File.activeWindow = true
+INFO 4/23/2026, 10:11:29 AM  2355  [focus] 1
+INFO 4/23/2026, 10:11:30 AM  3412  [blur] 1
+INFO 4/23/2026, 10:11:30 AM  3413  [win] blur
+INFO 4/23/2026, 10:11:30 AM  3493  [focus] 1
+INFO 4/23/2026, 10:11:34 AM  7008  synced recovery
+INFO 4/23/2026, 10:11:34 AM  7008  ----------------before-quit-----------------
+INFO 4/23/2026, 10:11:34 AM  7008  ------------------will-quit------------------
+INFO 4/23/2026, 10:11:34 AM  7008  -----------------quit------------------
+INFO 4/23/2026, 10:11:34 AM  7008  closeLogging
+INFO 4/23/2026, 10:11:38 AM  20  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 4/23/2026, 10:11:38 AM  61  ------------------start------------------
+DEBUG 4/23/2026, 10:11:38 AM  65  before setting 
+DEBUG 4/23/2026, 10:11:38 AM  75  prepDatabase /home/mdo/.config/Typora/profile.data
+DEBUG 4/23/2026, 10:11:38 AM  77  prepDatabase /home/mdo/.config/Typora/history.data
+INFO 4/23/2026, 10:11:38 AM  79  OS is linux 6.19.11-arch1-1
+INFO 4/23/2026, 10:11:38 AM  79  start LM in devVersion=false
+DEBUG 4/23/2026, 10:11:38 AM  85  after setting 
+INFO 4/23/2026, 10:11:38 AM  85  typora version: 1.12.4
+INFO 4/23/2026, 10:11:38 AM  107  [watch L]
+DEBUG 4/23/2026, 10:11:38 AM  107  prepDatabase /home/mdo/.config/Typora/aZN6WGMg3s
+INFO 4/23/2026, 10:11:38 AM  109  no info
+INFO 4/23/2026, 10:11:38 AM  109  ls put SLicense
+DEBUG 4/23/2026, 10:11:38 AM  109  onUnfillLicense
+DEBUG 4/23/2026, 10:11:38 AM  109  trailRemains is 15
+INFO 4/23/2026, 10:11:38 AM  109  [L] installDate is 4/23/2026, trail remains: 15 days
+DEBUG 4/23/2026, 10:11:38 AM  109  onUnfillLicense
+INFO 4/23/2026, 10:11:38 AM  109  [watch L] hasL: false
+user-dict.json not found
+DEBUG 4/23/2026, 10:11:38 AM  114  app.openFile
+DEBUG 4/23/2026, 10:11:38 AM  115  putAccelerator File -> &File
+DEBUG 4/23/2026, 10:11:38 AM  115  putAccelerator Edit -> &Edit
+DEBUG 4/23/2026, 10:11:38 AM  115  putAccelerator Paragraph -> &Paragraph
+DEBUG 4/23/2026, 10:11:38 AM  115  putAccelerator Format -> F&ormat
+DEBUG 4/23/2026, 10:11:38 AM  115  putAccelerator View -> &View
+DEBUG 4/23/2026, 10:11:38 AM  115  putAccelerator Themes -> &Themes
+DEBUG 4/23/2026, 10:11:38 AM  115  putAccelerator Help -> &Help
+DEBUG 4/23/2026, 10:11:38 AM  144  added recovery 1 null  (0)
+INFO 4/23/2026, 10:11:38 AM  173  synced recovery
+DEBUG 4/23/2026, 10:11:38 AM  424  onUnfillLicense
+ERROR 4/23/2026, 10:11:38 AM  429  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/23/2026, 10:11:38 AM  431  handle document.loadData
+DEBUG 4/23/2026, 10:11:38 AM  431  document.loadData 0
+ERROR 4/23/2026, 10:11:38 AM  431  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 4/23/2026, 10:11:38 AM  454  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 4/23/2026, 10:11:38 AM  454  [RenderProcess 1][Log] reset NodeMap
+DEBUG 4/23/2026, 10:11:38 AM  465  added recovery 1   (0)
+INFO 4/23/2026, 10:11:38 AM  466  synced recovery
+INFO 4/23/2026, 10:11:38 AM  544  [RenderProcess 1][Log] onBecomeActive
+INFO 4/23/2026, 10:11:38 AM  544  [RenderProcess 1][Log] File.activeWindow = true
+INFO 4/23/2026, 10:11:40 AM  2495  [focus] 1
+INFO 4/23/2026, 10:11:40 AM  2497  [blur] 1
+INFO 4/23/2026, 10:11:40 AM  2497  [win] blur
+INFO 4/23/2026, 10:11:41 AM  3410  [focus] 1
+INFO 4/23/2026, 10:11:42 AM  4634  synced recovery
+INFO 4/23/2026, 10:11:42 AM  4634  ----------------before-quit-----------------
+INFO 4/23/2026, 10:11:42 AM  4634  ------------------will-quit------------------
+INFO 4/23/2026, 10:11:42 AM  4635  -----------------quit------------------
+INFO 4/23/2026, 10:11:42 AM  4635  closeLogging

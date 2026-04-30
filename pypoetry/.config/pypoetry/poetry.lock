@@ -959,6 +959,21 @@ download = ["httpx (>=0.27.0,<1)"]
 install = ["zstandard (>=0.21.0)"]
 
 [[package]]
+name = "pexpect"
+version = "4.9.0"
+description = "Pexpect allows easy control of interactive console applications."
+optional = false
+python-versions = "*"
+groups = ["additional"]
+files = [
+    {file = "pexpect-4.9.0-py2.py3-none-any.whl", hash = "sha256:7236d1e080e4936be2dc3e326cec0af72acf9212a7e1d060210e70a47e253523"},
+    {file = "pexpect-4.9.0.tar.gz", hash = "sha256:ee7d41123f3c9911050ea2c2dac107568dc43b2d3b0c7557a33212c398ead30f"},
+]
+
+[package.dependencies]
+ptyprocess = ">=0.5"
+
+[[package]]
 name = "pkginfo"
 version = "1.12.1.2"
 description = "Query metadata from sdists / bdists / installed packages."
@@ -1047,6 +1062,35 @@ files = [
 [package.dependencies]
 poetry = ">=2.0.0,<3.0.0"
 poetry-core = ">=1.7.0,<3.0.0"
+
+[[package]]
+name = "poetry-plugin-shell"
+version = "1.0.1"
+description = "Poetry plugin to run subshell with virtual environment activated"
+optional = false
+python-versions = "<4.0,>=3.9"
+groups = ["additional"]
+files = [
+    {file = "poetry_plugin_shell-1.0.1-py3-none-any.whl", hash = "sha256:9d862799a31fa710b5e52f91415ae3b9e3374e302b7646b3829c6d776ffe2c36"},
+    {file = "poetry_plugin_shell-1.0.1.tar.gz", hash = "sha256:2c2f878f2dbf488cdfd990fc7205af858280942f4ff766d7bbc5aa8b198a1762"},
+]
+
+[package.dependencies]
+pexpect = ">=4.7.0,<5.0.0"
+poetry = ">=2.0,<3.0"
+shellingham = ">=1.5,<2.0"
+
+[[package]]
+name = "ptyprocess"
+version = "0.7.0"
+description = "Run a subprocess in a pseudo terminal"
+optional = false
+python-versions = "*"
+groups = ["additional"]
+files = [
+    {file = "ptyprocess-0.7.0-py2.py3-none-any.whl", hash = "sha256:4b41f3967fce3af57cc7e94b888626c18bf37a083e3651ca8feeb66d492fef35"},
+    {file = "ptyprocess-0.7.0.tar.gz", hash = "sha256:5c5d0a3b48ceee0b48485e0c26037c0acd7d29765ca3fbb5cb3831d347423220"},
+]
 
 [[package]]
 name = "pycparser"
@@ -1521,4 +1565,4 @@ cffi = ["cffi (>=1.17,<2.0) ; platform_python_implementation != \"PyPy\" and pyt
 [metadata]
 lock-version = "2.1"
 python-versions = "3.11.9"
-content-hash = "8910e3b9c0dab9c8e3984aaee2d658b518205d5af7b91238c5e7f6f15cdd160d"
+content-hash = "a7c3ea14a33f95ddf1037a656324b6a5a6c884d5e68b8e40ee56a8a824d76f55"

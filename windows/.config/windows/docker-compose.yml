@@ -10,10 +10,11 @@ services:
       USERNAME: "win"
       PASSWORD: "Sukram6014"
       TZ: "CET"
-      ARGUMENTS: "-rtc base=localtime,clock=host,driftfix=slew"
+      ARGUMENTS: "-rtc base=localtime,clock=host,driftfix=slew -device usb-host,vendorid=0x3277,productid=0x0051"
     devices:
       - /dev/kvm
       - /dev/net/tun
+      - /dev/bus/usb
     cap_add:
       - NET_ADMIN
     ports:

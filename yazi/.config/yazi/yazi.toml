@@ -1,10 +1,13 @@
 [opener]
 open = [
-  { run = 'xdg-open "$1"', desc = "Open", orphan = true, for = "linux" }
+  { run = 'xdg-open "%s1"', desc = "Open", orphan = true, for = "linux" }
 ]
 
 [open]
 prepend_rules = [
   { mime = "text/html", use = "open" },
-  { mime = "application/xhtml+xml", use = "open" }
+  { mime = "application/xhtml+xml", use = "open" },
+  { url = "*.html", use = "open" },
+  { url = "*.htm", use = "open" },
+  { url = "*.xhtml", use = "open" }
 ]
